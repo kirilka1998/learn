@@ -1,0 +1,1 @@
+var arr = [1,2,3, 'userName', 'hello', true, 22, false];
